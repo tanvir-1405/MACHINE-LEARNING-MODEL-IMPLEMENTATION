@@ -81,3 +81,21 @@ Marketing tools to segment and filter messages before delivery
 This project successfully demonstrated how machine learning and NLP can work together to solve a practical communication problem. With simple tools and a well-prepared dataset, we were able to create a smart system that can distinguish spam from genuine messages with a high degree of accuracy. The Jupyter Notebook interface made development and testing smooth and user-friendly, and the model itself can be deployed or improved further with deep learning or real-time APIs. This hands-on experience highlighted the true power of applied AI in day-to-day technology.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/888d46f5-91b6-4aeb-bdf4-4affccb3bee3)
+
+![Image](https://github.com/user-attachments/assets/b659df14-c2b5-4749-aa80-b30bdf5c62a3)
+
+![Image](https://github.com/user-attachments/assets/32148154-c2d9-4201-aa68-775e937d36b8)
+
+![Image](https://github.com/user-attachments/assets/ce2aba62-9113-4d17-b5dd-96fdd8104daf)
+
+![Image](https://github.com/user-attachments/assets/0964e166-6570-40c5-9cfc-08d054913232)
+
+![Image](https://github.com/user-attachments/assets/2ed92a6b-858d-4189-a937-09b5323a5aae)
+
+![Image](https://github.com/user-attachments/assets/9b7e551f-754a-43ba-b98b-1bde5cfeb98d)
+
+![Image](https://github.com/user-attachments/assets/3ed11340-053f-4838-b8e5-0231f87b2f9e)
+
+![Image](https://github.com/user-attachments/assets/be7b34a8-a99b-40ae-8bec-13237060695b)
